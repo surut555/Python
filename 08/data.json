@@ -1,0 +1,17 @@
+{
+    "student":[{
+        "student_id":"001",
+        "f_name":"Jony",
+        "l_name":"Dong",
+        "score":80,
+        "grade":"A"
+    },
+    {
+        "student_id":"002",
+        "f_name":"Jony1",
+        "l_name":"Dong1",
+        "score":80,
+        "grade":"A"
+    }
+]
+}

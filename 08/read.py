@@ -1,4 +1,4 @@
-file = open(r"/Users/suratsetthanan/Doctment/python/08/mycodein.txt")
+file = open(r"/Users/suratsetthanan/Documents/python/08/mycodein.txt")
 data = file.read()
 print(data)
 file.close()
